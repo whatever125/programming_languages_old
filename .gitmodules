@@ -1,3 +1,6 @@
 [submodule "assignment-1-io-library"]
 	path = assignment-1-io-library
 	url = https://gitlab.se.ifmo.ru/whatever125/assignment-1-io-library
+[submodule "assignment-2-dictionary"]
+	path = assignment-2-dictionary
+	url = https://gitlab.se.ifmo.ru/whatever125/assignment-2-dictionary
