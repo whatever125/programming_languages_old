@@ -4,3 +4,12 @@
 [submodule "assignment-2-dictionary"]
 	path = assignment-2-dictionary
 	url = https://gitlab.se.ifmo.ru/whatever125/assignment-2-dictionary.git
+[submodule "assignment-3-image-rotation"]
+	path = assignment-3-image-rotation
+	url = https://gitlab.se.ifmo.ru/whatever125/assignment-3-image-rotation.git
+[submodule "assignment-4-memory-allocator"]
+	path = assignment-4-memory-allocator
+	url = https://gitlab.se.ifmo.ru/whatever125/assignment-4-memory-allocator.git
+[submodule "assignment-5-sepia-filter"]
+	path = assignment-5-sepia-filter
+	url = https://gitlab.se.ifmo.ru/whatever125/assignment-5-sepia-filter.git
